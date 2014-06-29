@@ -16,5 +16,8 @@
     "src/protocol/Runtime.coffee"
   ],
   "main": "src/Base.js",
-  "files": []
+  "files": [],
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ]
 }
